@@ -45,7 +45,7 @@ You can view the live application [here](https://react-todo-app-virid-three.verc
    npm install
 4. **Start the application:**
    ```bash
-   npm start
+   npm run dev
 
 ## Usage
 
