@@ -4,6 +4,10 @@
 
 The Todo App is a simple and efficient task management application built with React and Redux Toolkit. It allows users to add, edit, delete, and mark tasks as completed. The app is styled for a modern look and provides a smooth user experience.
 
+## Live Demo
+
+You can view the live application [here](https://react-todo-app-virid-three.vercel.app/). The application is deployed on Vercel for seamless hosting and performance.
+
 ## Features
 
 - **Add Tasks**: Quickly add new tasks to your list.
