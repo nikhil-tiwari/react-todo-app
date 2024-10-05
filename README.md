@@ -36,7 +36,7 @@ You can view the live application [here](https://react-todo-app-virid-three.verc
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/nikhil-tiwari/todo-app.git
 2. **Navigate to the project directory:**
    ```bash
    cd todo-app
